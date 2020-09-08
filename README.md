@@ -74,7 +74,8 @@ labelImgフォルダ内に、任意のフォルダを作成し、中に学習用
 
 labelImgの画面左のリストから「open Dir」を選択。先ほど作成した「test01」を選択する。(画像赤丸部分)
 
-<img src="/Users/imanim/Documents/スクリーンショット/スクリーンショット 2020-09-08 14.33.45.png" alt="スクリーンショット 2020-09-08 14.33.45" style="zoom:30%;" />
+<img width="393" alt="スクリーンショット 2020-09-08 14 33 45" src="https://user-images.githubusercontent.com/68985919/92439978-b9312800-f1e6-11ea-8afe-c0766680f5e8.png">
+
 
 画像赤丸より１つ下の「Change Save Dir」を、先ほど作成した「test01」に設定。
 
@@ -84,7 +85,7 @@ labelImgの画面左のリストから「open Dir」を選択。先ほど作成�
 
 の順番で、全ての画像のアノテーションが終わるまで続ける。
 
-<img src="/Users/imanim/Library/Application Support/typora-user-images/スクリーンショット 2020-09-08 14.47.54.png" alt="スクリーンショット 2020-09-08 14.47.54" style="zoom:30%;" />
+
 
 ### データ分割
 
