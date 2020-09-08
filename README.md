@@ -60,7 +60,7 @@ pipenv run pip install pyqt5
 python3 labelImg.py
 ```
 
-<img src="/Users/imanim/Library/Application Support/typora-user-images/スクリーンショット 2020-09-08 14.26.28.png" alt="スクリーンショット 2020-09-08 14.26.28" style="zoom:30%;" />
+<img src="/Users/imanim/Library/Application Support/typora-user-images/スクリーンショット 2020-09-08 14.26.28.png" alt="スクリーンショット 2020-09-08 14.26.28" style="zoom:30%;" <img width="648" alt="スクリーンショット 2020-09-08 15 18 12" src="https://user-images.githubusercontent.com/68985919/92439859-8ab34d00-f1e6-11ea-958e-0eb3182a50d4.png">
 
 この画面が出てきたら成功。
 
