@@ -124,5 +124,7 @@ names: ['oversway']
 train：valid：test =７：２：１ぐらいの割合で入れる。「image」フォルダには画像を、「labels」フォルダにはtxtフォルダを入れる。
 
 ### 完成
+今回は、社交ダンス動画の中から、「オーバースウェー」を行った瞬間を学習。
+![sway-detect3](https://user-images.githubusercontent.com/68985919/93725849-4ca62800-fbed-11ea-8e33-970f92d48a0b.gif)
 
 
